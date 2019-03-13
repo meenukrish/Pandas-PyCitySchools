@@ -1,0 +1,19 @@
+Two observable trends based on the data  - Academy of Py
+ : 
+
+Trend1 : 
+
+The Top performing are from Charter schools compared to the District schools. The reading score of the top performing Charter schools are almost equivalent to the bottom performing District schools. 
+But yet, Math score and Math passing rate make a significant difference in the %Overall passing rate. 
+
+Trend 2: 
+
+Based on the scores by School spending, the school with per student budget <$585 and between $585-615, amazingly seem to perform with greater Overall passing rate. So the higher per student budget does not directly correspond the Over all passing rate.   
+
+Trend 3: 
+
+When calculating the Overall passing rate based on the School size, I observe that the schools Small (<1000) to Medium (1000-2000) has higher passing rate. If the total students are Large (2000-5000)
+  the overall passing rate seem to significantly affected. 
+
+
+Thanks
